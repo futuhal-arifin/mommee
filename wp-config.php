@@ -14,24 +14,6 @@
  * @package WordPress
  */
 
-define('WP_HOME','http://mommee.org');
-define('WP_SITEURL','http://mommee.org');
-define('WP_CACHE', false);
-define('FTP_USER', 'k0449745' );
-define('FTP_PASS', '09Dd5my4oG' );
-define('FTP_HOST', '49.50.8.185' );
-
-
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define('DB_NAME', 'k0449745__wp_mommee');
-
-/** MySQL database username */
-define('DB_USER', 'k0449745_mommee');
-
-/** MySQL database password */
-define('DB_PASSWORD', 'oibwtp7013');
-
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
